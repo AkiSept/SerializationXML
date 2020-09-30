@@ -1,1 +1,2 @@
-# SerializationXML
+# SerializationXML  
+Сериализация/десериализация xml
